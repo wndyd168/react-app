@@ -1,4 +1,4 @@
-root {
+:root {
   --primaryColor: #BCA88E;
   --secondColor: #9DA993;
   --mainWite: #fff;
@@ -16,4 +16,8 @@ root {
 body {
   background: var(--secondColor);
   color: var(--mainBlack);
+}
+
+h1 {
+  margin: 1rem 0;
 }
